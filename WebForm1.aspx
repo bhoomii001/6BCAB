@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            HELLO 6BCA B CLASS!!!☺
+            WELCOME 6BCA B CLASS!!!☺
         </div>
     </form>
 </body>
